@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.prod.json",
+  "compilerOptions": {
+    "paths": {
+      "@reevo/lucky-draw": [
+        "projects/lucky-draw/src/public-api.ts"
+      ],
+      "@reevo/lucky-draw/config": [
+        "projects/lucky-draw/config/src/public-api.ts"
+      ],
+      "@proxy": ["projects/lucky-draw/src/lib/proxy/index.ts"],
+      "@proxy/*": ["projects/lucky-draw/src/lib/proxy/*"]
+    }
+  }
+}

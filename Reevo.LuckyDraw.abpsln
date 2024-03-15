@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Reevo.LuckyDraw": {
+      "path": "Reevo.LuckyDraw.abpmdl"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Reevo.LuckyDraw.Domain.Shared": {
+      "path": "src/Reevo.LuckyDraw.Domain.Shared/Reevo.LuckyDraw.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "Reevo.LuckyDraw.Domain": {
+      "path": "src/Reevo.LuckyDraw.Domain/Reevo.LuckyDraw.Domain.abppkg",
+      "folder": "src"
+    },
+    "Reevo.LuckyDraw.Application.Contracts": {
+      "path": "src/Reevo.LuckyDraw.Application.Contracts/Reevo.LuckyDraw.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "Reevo.LuckyDraw.Application": {
+      "path": "src/Reevo.LuckyDraw.Application/Reevo.LuckyDraw.Application.abppkg",
+      "folder": "src"
+    },
+    "Reevo.LuckyDraw.EntityFrameworkCore": {
+      "path": "src/Reevo.LuckyDraw.EntityFrameworkCore/Reevo.LuckyDraw.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "Reevo.LuckyDraw.MongoDB": {
+      "path": "src/Reevo.LuckyDraw.MongoDB/Reevo.LuckyDraw.MongoDB.abppkg",
+      "folder": "src"
+    },
+    "Reevo.LuckyDraw.HttpApi": {
+      "path": "src/Reevo.LuckyDraw.HttpApi/Reevo.LuckyDraw.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "Reevo.LuckyDraw.HttpApi.Client": {
+      "path": "src/Reevo.LuckyDraw.HttpApi.Client/Reevo.LuckyDraw.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "Reevo.LuckyDraw.TestBase": {
+      "path": "test/Reevo.LuckyDraw.TestBase/Reevo.LuckyDraw.TestBase.abppkg",
+      "folder": "test"
+    },
+    "Reevo.LuckyDraw.EntityFrameworkCore.Tests": {
+      "path": "test/Reevo.LuckyDraw.EntityFrameworkCore.Tests/Reevo.LuckyDraw.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "Reevo.LuckyDraw.MongoDB.Tests": {
+      "path": "test/Reevo.LuckyDraw.MongoDB.Tests/Reevo.LuckyDraw.MongoDB.Tests.abppkg",
+      "folder": "test"
+    },
+    "Reevo.LuckyDraw.Domain.Tests": {
+      "path": "test/Reevo.LuckyDraw.Domain.Tests/Reevo.LuckyDraw.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "Reevo.LuckyDraw.Application.Tests": {
+      "path": "test/Reevo.LuckyDraw.Application.Tests/Reevo.LuckyDraw.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "Reevo.LuckyDraw.HttpApi.Host": {
+      "path": "host/Reevo.LuckyDraw.HttpApi.Host/Reevo.LuckyDraw.HttpApi.Host.abppkg",
+      "folder": "host"
+    },
+    "Reevo.LuckyDraw.Web": {
+      "path": "src/Reevo.LuckyDraw.Web/Reevo.LuckyDraw.Web.abppkg",
+      "folder": "src"
+    },
+    "Reevo.LuckyDraw.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Reevo.LuckyDraw.HttpApi.Client.ConsoleTestApp/Reevo.LuckyDraw.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "Reevo.LuckyDraw.Web.Host": {
+      "path": "host/Reevo.LuckyDraw.Web.Host/Reevo.LuckyDraw.Web.Host.abppkg",
+      "folder": "host"
+    },
+    "Reevo.LuckyDraw.AuthServer": {
+      "path": "host/Reevo.LuckyDraw.AuthServer/Reevo.LuckyDraw.AuthServer.abppkg",
+      "folder": "host"
+    },
+    "Reevo.LuckyDraw.Host.Shared": {
+      "path": "host/Reevo.LuckyDraw.Host.Shared/Reevo.LuckyDraw.Host.Shared.abppkg",
+      "folder": "host"
+    },
+    "Reevo.LuckyDraw.Web.Unified": {
+      "path": "host/Reevo.LuckyDraw.Web.Unified/Reevo.LuckyDraw.Web.Unified.abppkg",
+      "folder": "host"
+    },
+    "Reevo.LuckyDraw.Blazor": {
+      "path": "src/Reevo.LuckyDraw.Blazor/Reevo.LuckyDraw.Blazor.abppkg",
+      "folder": "src"
+    },
+    "Reevo.LuckyDraw.Blazor.Host": {
+      "path": "host/Reevo.LuckyDraw.Blazor.Host/Reevo.LuckyDraw.Blazor.Host.abppkg",
+      "folder": "host"
+    },
+    "Reevo.LuckyDraw.Blazor.Server": {
+      "path": "src/Reevo.LuckyDraw.Blazor.Server/Reevo.LuckyDraw.Blazor.Server.abppkg",
+      "folder": "src"
+    },
+    "Reevo.LuckyDraw.Blazor.WebAssembly": {
+      "path": "src/Reevo.LuckyDraw.Blazor.WebAssembly/Reevo.LuckyDraw.Blazor.WebAssembly.abppkg",
+      "folder": "src"
+    },
+    "Reevo.LuckyDraw.Blazor.Server.Host": {
+      "path": "host/Reevo.LuckyDraw.Blazor.Server.Host/Reevo.LuckyDraw.Blazor.Server.Host.abppkg",
+      "folder": "host"
+    }
+  }
+}

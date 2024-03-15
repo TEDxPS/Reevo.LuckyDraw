@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+    <Import Project="..\..\common.props" />
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Volo.Abp.AspNetCore.Components.WebAssembly.Theming" Version="8.0.5" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Reevo.LuckyDraw.Blazor\Reevo.LuckyDraw.Blazor.csproj" />
+        <ProjectReference Include="..\Reevo.LuckyDraw.HttpApi.Client\Reevo.LuckyDraw.HttpApi.Client.csproj" />
+    </ItemGroup>
+
+</Project>
